@@ -1,0 +1,8 @@
+li a {
+  color: green;
+}
+body {
+  background: no-repeat;
+  background-blend-mode: soft-light;
+  background-image: url("images/background.jpg"), url("images/background2.jpg");
+}
